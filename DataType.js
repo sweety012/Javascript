@@ -5,11 +5,11 @@ var Fruit = "Apple"; //Declare Variable with String DataType
 console.log(Fruit,(Typeof Fruit)); //Printing DataType of Fruit Variable
 
 //Number Data Type
-var Marks = "52";  // Declare Variable with Integer DataType 
+var Marks = 52;  // Declare Variable with Integer DataType 
 console.log(Marks,(typeof Marks)); // Printing Type of Variable Marks
 
 //Number Data Type Float
-var Percent = "72.5" // Declare Variable with Float Value
+var Percent = 72.5 // Declare Variable with Float Value
 console.log(Percent,(typeof Percent)); // Printing Value and DataType with on Statement
 
 //Boolean  Data Type
